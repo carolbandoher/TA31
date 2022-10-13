@@ -22,7 +22,7 @@ Dia final: Martes                       Hora final: 16
 Entre las 10 hrs del lunes y las 16 hrs del miercoles hay 54 hrs
 
 ## Diseño de la solucion
-![]
+![](https://github.com/carolbandoher/TA31/blob/main/T3A2.png)
 
 
 
